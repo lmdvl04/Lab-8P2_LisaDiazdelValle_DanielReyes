@@ -14,7 +14,8 @@ public class Lab8P2_LisaDiazdelValle_DanielReyes {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        PrincipalLab8 p = new PrincipalLab8();
+        p.setVisible(true);
     }
-    
+
 }
